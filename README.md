@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lauretta a Data Scientist transitioning from a Sales and Marketing background where i have 8yrs hands on experience in B2B sales.
-- I am currently doing my internship with Quantuam Analystics as a Data Analyst.
+- I am currently interning with Quantuam Analystics as a Data Analyst.
 - 👀 I’m interested in advancing my skills in MS SQL, SQL, SAS, Python, R, Power BI, Tableau and Machine Learning.
 - 🌱 I’m currently learning SAS, R and Machine Learning and I am good with Tableau, Power BI, SQL, MS SQL, MS Excel and Python for Data Cleaning, Data Manipulation, Data Visualization and Insight generation.
-- 💞️ I’m looking to collaborate with experienced Data analyst, Data Scientist and people with vast knowledge in handling big data.
+- 💞️ I’m looking to collaborate with experienced Data analysts, Data Scientists and people with vast knowledge in handling big data.
 - 📫 How to reach me on Linkedin @Lauretta Ejiasi.
