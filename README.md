@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lauretta a Data Scientist with 8yrs of experience in B2B Sales.
-- I am currently interning with Quantuam Analystics as a Data Analyst.
+- 👋 Hi, I’m Lauretta a Data Analyst with 8yrs of experience in B2B Sales.
+- I am currently working with Quantuam Analystics and V-PEG energy and gas limited as a Data and Energy Analyst.
 - 👀 I’m interested in advancing my skills in MS SQL, SQL, SAS, Python, R, Power BI, Tableau and Machine Learning.
-- 🌱 I’m currently learning SAS, R and Machine Learning and I am good with Tableau, Power BI, SQL, MS SQL, MS Excel and Python for Data Cleaning, Data Manipulation, Data Visualization and Insight generation.
+- 🌱 I’m currently learning R and I am good with Tableau, Power BI, SAS, SQL, MS SQL, MS Excel and Python for Data Cleaning, Data Manipulation, Data Visualization and Insight generation.
 - 💞️ I’m looking to collaborate with experienced Data analysts, Data Scientists and people with vast knowledge in handling big data.
 - 📫 How to reach me on Linkedin @Lauretta Ejiasi.
